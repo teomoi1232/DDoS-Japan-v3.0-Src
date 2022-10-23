@@ -1385,7 +1385,7 @@ else:
         def home(self):
             global Flood_Mode
             global in_proxies
-            print(Fore.YELLOW + "  \n            \n         ___                              _   _  ____   ____ \n        |_  |                            | | | ||___ | |  _ |\n          | |  __ _  _ __    __ _  _ __  | | | |   / / | |/'| By P3terJ4mes\n          | | / _` || '_ \\  / _` || '_ \\ | | | |   \\ \\ |  /||   HttpTools\n       /\\_/ || (_| || |_) || (_| || | | | \\ \\/ /.__/ /_\\ |/ /Use Proxy Live\n       \\___/  \\__,_|| .__/  \\__,_||_| |_|  \\__/ \\___/(_)\\__/ \n                    | |                                         \n                    |_|  High Anonymous Http/Https/Sock4/Sock5             \n       \n  +--------------------------------------------------------------------------+               \n  == >> Method: Http Flood - Bypass Cloud Flare - Auto Get/Update Proxy << ===\n  ")
+            print(Fore.YELLOW + "  \n            \n         ___                              _   _  ____   ____ \n          | | / _` || '_ \\  / _` || '_ \\ | | | |   \\ \\ |  /||   HttpTools\n       /\\_/ || (_| || |_) || (_| || | | | \\ \\/ /.__/ /_\\ |/ /Use Proxy Live\n       \\___/  \\__,_|| .__/  \\__,_||_| |_|  \\__/ \\___/(_)\\__/ \n                    | |                                         \n                    |_|  High Anonymous Http/Https/Sock4/Sock5             \n       \n  +--------------------------------------------------------------------------+               \n  == >> Method: Http Flood - Bypass Cloud Flare - Auto Get/Update Proxy << ===\n  ")
             if os.name in ('nt', 'dos', 'ce'):
                 os.system('title       ...')
             try:
